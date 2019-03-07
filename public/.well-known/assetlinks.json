@@ -2,18 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "paypal.test.com.test_paypal_sdk",
+    "package_name": "com.example.musekar.demoandroidxo",
     "sha256_cert_fingerprints":
-    ["17:77:71:B6:CA:C8:CC:20:DF:35:A4:18:AE:CD:D0:A9:FD:5D:14:59:CB:8E:F8:EE:18:D0:08:38:96:2E:F9:E4"]
-  }
-},{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "paypal.test.com.demonativesdk",
-    "sha256_cert_fingerprints":
-    ["17:77:71:B6:CA:C8:CC:20:DF:35:A4:18:AE:CD:D0:A9:FD:5D:14:59:CB:8E:F8:EE:18:D0:08:38:96:2E:F9:E4"]
+    ["CB:65:A1:D4:60:85:D6:4E:98:C2:6E:37:C9:30:9D:9E:D1:E5:A3:AE:2A:E5:57:7E:EE:5D:19:59:94:DF:D6:34"]
   }
 }]
-
-
